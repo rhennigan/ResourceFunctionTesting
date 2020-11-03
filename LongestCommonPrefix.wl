@@ -546,8 +546,8 @@ $verificationTests = HoldComplete[
     "Name" -> "LongestCommonPrefix",
     "Function" -> LongestCommonPrefix,
     "ResourceType" -> "Function",
-    "Description" -> "Find the longest common contiguous prefix of a set of strings or lists",
-    "Version" -> "1.0.1",
+    "Description" -> "Find the longest common contiguous prefix of a set of strings or lists (development branch)",
+    "Version" -> "1.1.0",
     "Keywords" -> {
         "prefix",
         "common start",
